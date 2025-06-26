@@ -1,12 +1,50 @@
-# React + Vite
+# 🛒 Product Search — Front-End React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao **Dev Price**, um projeto de site buscador de produtos desenvolvido utilizando **React**. Este projeto consiste na criação da interface de um buscador, permitindo que usuários pesquisem e visualizem produtos de maneira prática e organizada.
+Foi utilizado uma api de produtos ficticia.
 
-Currently, two official plugins are available:
+## 📸 Demonstração
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/20e779e5-ab04-4508-8dab-067d04ba4cd0)
 
-## Expanding the ESLint configuration
+![image](https://github.com/user-attachments/assets/7a54210b-d435-41a7-9349-ee4576634c6c)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image](https://github.com/user-attachments/assets/96f64763-2e4e-4816-8810-d47a46f1e253)
+
+
+
+---
+
+## 📌 Tecnologias Utilizadas
+
+- ⚛️ React
+- 📦 Vite ou Create React App (dependendo da sua escolha)
+- 📄 CSS (ou Styled-Components)
+- 📊 Axios (se estiver simulando requisições)
+- 📁 JSON Server ou API fake para testes locais
+
+---
+
+## 🚀 Como Executar o Projeto
+
+### Pré-requisitos
+
+- Node.js instalado na máquina
+- Gerenciador de pacotes (NPM ou Yarn)
+
+### Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/product-search.git
+   ```
+   
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
+
+2. Inicie o projeto:
+   ```bash
+   npm run dev
+   ```
