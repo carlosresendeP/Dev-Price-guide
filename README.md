@@ -36,7 +36,7 @@ Foi utilizado uma api de produtos ficticia.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/product-search.git
+   [git clone https://github.com/seu-usuario/product-search.git](https://github.com/carlosresendeP/Dev-Price-guide)
    ```
    
 2. Instale as dependências:
