@@ -1,0 +1,16 @@
+[x] fazer a home page 
+[x] adicionar o search-bar e o search-button na home page
+
+[x] Pegar dados do input, quando clicar no botao
+(utilizei o react hook use form + yup para validação (schema validation))
+
+[] fazer a busca na api de busca do mercado livre
+
+[] apos clicar no botão buscar deve fazer um busca na api 
+
+https://api.mercadolibre.com/sites/MLB/search?q=iphone
+
+[] apos a busca jogar os resultados na tela dentro da product-list
+[] fazer o componente product-list e adicionar na homepage
+[] fazer o componente product-card (ele ficará dentro do product-list)
+[] fazer o grafico de comparação de preços
